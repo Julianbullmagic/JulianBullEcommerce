@@ -53,7 +53,6 @@ button:active
 .header {
   grid-area: header;
   background-color: #203040;
-  color: #ffffff;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -61,7 +60,7 @@ button:active
 }
 .brand a {
   color: #ffffff;
-  font-size: 3rem;
+  font-size: 2rem;
   font-weight: bold;
   text-decoration: none;
 }
